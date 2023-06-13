@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinx9000
 - 👀 I’m interested in ... starting a new career.
-- 🌱 I’m currently learning ... foundations on The Odin Project.
+- 🌱 I’m currently learning ... JavaScript on Udemy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
